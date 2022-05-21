@@ -1,4 +1,4 @@
 # slasher
 Slasher Roblox Script
 
-Bot made by me
+not made by me
